@@ -1,4 +1,4 @@
-Mein erstes git Repositorium
+Mein erstes git Repositorium 🎉
 
 - Author: gmjs4
 
